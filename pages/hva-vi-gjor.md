@@ -14,6 +14,7 @@ Les mer om hva vi utvikler for tiden.
 
 ## Sakene på holderdeord.no
 
+asdasd
 <<<<<<< HEAD
 Hello!
 
