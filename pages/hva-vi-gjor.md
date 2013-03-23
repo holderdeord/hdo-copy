@@ -14,6 +14,8 @@ Les mer om hva vi utvikler for tiden.
 
 ## Sakene på holderdeord.no
 
+Goodbye!
+
 På holderdeord.no samler vi avstemninger fra Stortinget og valgløfter fra partiprogram og gjør det enkelt å finne ut hva politikerne har lovet og stemt i saker du er opptatt av.
 
 Sakene du finner på holderdeord.no er formulert som politiske standpunkt man kan være for eller mot, for eksempel mot eller for «å fjerne formueskatten». En sak skal være gjenkjennelig og meningsfull, uavhengig av om man er enig i standpunktet politisk, og skal ikke kunne brytes opp i mindre saker.  
