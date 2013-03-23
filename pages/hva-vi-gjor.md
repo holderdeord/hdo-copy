@@ -14,7 +14,7 @@ Les mer om hva vi utvikler for tiden.
 
 ## Sakene på holderdeord.no
 
-Goodbye!
+Hello!
 
 På holderdeord.no samler vi avstemninger fra Stortinget og valgløfter fra partiprogram og gjør det enkelt å finne ut hva politikerne har lovet og stemt i saker du er opptatt av.
 
