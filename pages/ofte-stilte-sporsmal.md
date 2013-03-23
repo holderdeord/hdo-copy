@@ -6,8 +6,6 @@ Ikke i Norge. Derimot er lignende initiativ på fremmarsj i resten av verden. Li
 
 ### Har dere en faglig inspirasjonskilde?
 
-Test
-
 Vi har flere. En av dem er den australske statsviteren John Keane. Han mener verden utvikler seg i retning av en ny og mer avansert form for folkestyre, såkalt undersøkende eller kontrollerende demokrati (*monitory democracy*), som i tillegg til valg kjennetegnes av et mye bredere og omfattende nettverk av folkelig oppmerksomhet og kontroll med makthavere.
 
 ### Hvorfor fokuserer dere på avstemningene på Stortinget?
