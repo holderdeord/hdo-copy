@@ -1,7 +1,7 @@
-
 # Ofte stilte spørsmål
 
 ### Har dette blitt gjort før?
+
 Ikke i Norge. Derimot er lignende initiativ på fremmarsj i resten av verden. Lignende initiativ er på plass eller under utvikling i flere land, inkludert USA, Storbritannia, Frankrike, Polen og Finland.
 
 ### Har dere en faglig inspirasjonskilde?
