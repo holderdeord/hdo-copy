@@ -42,18 +42,18 @@ I hovedsak er det tre ulike typer saker som behandles på Stortinget: budsjettsa
     </tr>
     <tr>
       <td>0.5</td>
-      <td>Litt viktig</td>
-      <td>Forslag som vedlegges protokollen, opposisjonsforslag</td>
+      <td>Noe viktig</td>
+      <td>Forslag som vedlegges protokollen</td>
     </tr>
     <tr>
       <td>1.0</td>
       <td>Viktig</td>
-      <td>Representantforslag, alternative statsbudsjett, mindre relevante proposisjoner</td>
+      <td>Representantforslag, Opposisjonsforslag, Alternative statsbudsjett</td>
     </tr>
     <tr>
       <td>2.0</td>
       <td>Svært viktig</td>
-      <td>Lovsaker, statsbudsjett, proposisjoner</td>
+      <td>Lovsaker, Proposisjoner, Statsbudsjett</td>
     </tr>
   </tbody>
 </table>
