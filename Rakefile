@@ -4,9 +4,17 @@ require 'redcarpet'
 directory 'build'
 CLEAN << 'build'
 
+module Hdo
+  class MarkdownRenderer < Redcarpet::Render::HTML
+    def header(str, level)
+      id = str.gsub(/\s+/, '-').gsub(/[^\w-]/, '').downcase
+      "<h#{level} id='#{id}'>#{str}</h#{level}>"
+    end
+  end
+end
+
 task :default => :clean do
-  # TODO: find a real solution for header/anchors
-  renderer = Redcarpet::Render::HTML.new(with_toc_data: true)
+  renderer = Hdo::MarkdownRenderer.new(with_toc_data: true)
   markdown = Redcarpet::Markdown.new(renderer,
     autolink: true,
     space_after_headers: true,
