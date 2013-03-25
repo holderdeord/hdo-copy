@@ -9,7 +9,7 @@ Holder de ords formål er å bidra til en samfunnsdebatt preget av åpenhet, sak
 
 Hovedinnholdet på www.holderdord.no er datasett om hvordan partier og stortingsrepresentanter i konkrete politiske saker, partiprogram og andre politiske løfter. Dette er det *vesentlige* stoffet Holder de ord til enhver tid publiserer.
 
-Les mer om hva vi utvikler for tiden.
+Les mer om [hva vi utvikler for tiden](/home/future).
 
 ## Sakene på holderdeord.no
 
@@ -64,6 +64,3 @@ Holder de ord benytter en enkel vektemodell, for å bevare fokuset på stemmegiv
 Holder de ord kategoriserer valgløfter fra partiprogram og regjeringserklæringer fortløpende når de blir vedtatt av enten landsmøter eller regjeringskoalisjoner.  Et valgløfte er en politisk lovnad som staker ut en politisk kurs eller foreslår et konkret handlingsmål (Naurin 2009).
 
 Holder de ord fokuserer i første omgang på partienes partiprogrammer og eventuelle regjeringserklæringer. I valgprogrammene presenterer partiene og politikerne sine visjoner og planer, og disse danner grunnlaget for valgkampen ved å forklare for velgerne hvordan partiene vil bruke makten dersom de får støtte fra velgerne. Det ligger et vesentlig element av forpliktelse fra partiene til å oppfylle de politiske løftene de gir før valget. Sammenhengen mellom gjennomført politikk og valgløfter er dermed viktig. I en koalisjonsregjering forhandler partiene frem en regjeringserklæring, som er regjeringspartienes felles plattform for den kommende Stortingsperioden. Her inngås det kompromisser og viktige saker fremheves. For å få et representativt bilde inngår derfor også løfter fra disse regjeringserklæringene i Holder de ords løftedatabase.
-
-<hr class="soften">
-
