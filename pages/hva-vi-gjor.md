@@ -19,7 +19,7 @@ Sakene du finner på holderdeord.no er formulert som politiske standpunkt man ka
 
 Under en sak samler Holder de ord alle relevante avstemninger tilknyttet saken, og viser hvordan partiene har stemt på Stortinget under disse. I hver sak får partiene en skår basert på hvor mange ganger de har stemt for eller mot saken i de individuelle avstemningene. Holder de ord opererer med tre graderinger av partienes stemmegivning: **for** (0 – 33%), **både for og mot** (34 – 66 %) og **mot** (67 – 100%). Deretter henter vi relevante valgløfter fra partiprogrammene og knytter så disse opp til den aktuelle saken.
 
-Partier velger av og til å kompromisse på enkelte stand	punkter for å oppnå resultater i andre saker. Dette er viktig for holderdeord.no å få frem. Partiene har derfor mulighet til å forklare og utdype hvorfor de har stemt som de har gjort i de ulike sakene.
+Partier velger av og til å kompromisse på enkelte standpunkter for å oppnå resultater i andre saker. Dette er viktig for holderdeord.no å få frem. Partiene har derfor mulighet til å forklare og utdype hvorfor de har stemt som de har gjort i de ulike sakene.
 
 ## Vekting av avstemninger
 
