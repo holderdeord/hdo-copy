@@ -8,9 +8,6 @@ Kjernen i holderdeord.no er en database med alle avstemninger på Stortinget fra
 
 Holderdeord.no er under kontinuerlig utvikling. Les mer om [hva vi utvikler for tiden](/home/future).
 
-Holder de ord er en partipolitisk uavhengig organisasjon som ble grunnlagt på slutten av 2010 med et ønske om å gjøre det lettere å følge med på hva som skkjer i norsk politikk.
-
-
 ## Sakene på holderdeord.no
 
 Sakene du finner på holderdeord.no er formulert som politiske standpunkt man kan være for eller mot, for eksempel mot eller for å [fjerne formuesskatten](/issues/fjerne-formueskatten). En sak skal være gjenkjennelig og meningsfull, uavhengig av om man er enig i standpunktet politisk, og skal ikke kunne brytes opp i mindre saker.  
