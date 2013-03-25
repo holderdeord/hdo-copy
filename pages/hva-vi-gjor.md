@@ -1,6 +1,5 @@
 # Hva vi gjør
 
-## Holder de ord i et nøtteskall
 Holder de ord er en partipolitisk uavhengig organisasjon som ble grunnlagt på slutten av 2010 med et ønske om å gjøre det lettere å følge med på hva som skkjer i norsk politikk.
 
 ## Vår profil

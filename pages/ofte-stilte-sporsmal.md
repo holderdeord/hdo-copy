@@ -2,11 +2,11 @@
 
 ### Har dette blitt gjort før?
 
-Ikke i Norge. Derimot er lignende initiativ på fremmarsj i resten av verden. Lignende initiativ er på plass eller under utvikling i flere land, inkludert USA, Storbritannia, Frankrike, Polen og Finland.
+Ikke i Norge. Derimot er lignende initiativ på fremmarsj i resten av verden. Organisasjoner som bruker data for å ansvarliggjøre myndighetene er på plass eller under utvikling i flere land, inkludert USA, Storbritannia, Frankrike, Polen og Finland.
 
 ### Har dere en faglig inspirasjonskilde?
 
-Vi har flere. En av dem er den australske statsviteren John Keane. Ifølge Keane, utvikler verdens demokratier seg utvikler seg i retning av en ny og mer avansert form for folkestyre, såkalt undersøkende eller kontrollerende demokrati (*monitory democracy*), som i tillegg til valg kjennetegnes av et mye bredere og omfattende nettverk av folkelig oppmerksomhet og kontroll med makthavere.
+Vi har flere. En av dem er den australske statsviteren John Keane. Ifølge Keane utvikler verdens demokratier seg i retning av en ny og mer avansert form for folkestyre, såkalt undersøkende eller kontrollerende demokrati (*monitory democracy*), som i tillegg til valg kjennetegnes av et mye bredere og omfattende nettverk av folkelig oppmerksomhet og kontroll med makthavere.
 
 ### Hvorfor fokuserer dere på avstemningene på Stortinget?
 
