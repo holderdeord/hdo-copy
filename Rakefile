@@ -17,7 +17,7 @@ module Hdo
 
   class TocRenderer < Redcarpet::Render::HTML_TOC
     def header(str, level)
-      "<li><a href='#{Hdo.id_for str}'>#{str}</a></li>\n"
+      "<li><a href='##{Hdo.id_for str}'>#{str}</a></li>\n"
     end
   end
 end
