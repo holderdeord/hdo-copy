@@ -4,7 +4,7 @@ Holder de ord er en partipolitisk uavhengig organisasjon som ble grunnlagt i nov
 
 Vårt mål er å bidra til en samfunnsdebatt preget av åpenhet, saklighet, samfunnsengasjement og dialog. Dette er utgangspunktet for hva Holder de ord velger å publisere. Vi opererer etter prinsipper som skal sikre partipolitisk uavhengighet, og følger redaktørplakaten og Vær Varsom-plakten der hvor de er aktuelle for oss.
 
-Kjernen i holderdeord.no er en database med alle avstemninger på Stortinget fra 2009 og fremover, og partienes valgløfter fra partiprogrammene. Vi samler løfter og avstemninger under politiske saker slik vi kjenner de fra samfunnsdebatten, og gjør det enkelt å få oversikt over hvordan partiene har stemt og lovet.
+Kjernen i holderdeord.no er en database med alle avstemninger på Stortinget fra 2009 og fremover, og partienes valgløfter fra partiprogrammene. Vi samler løfter og avstemninger under politiske saker slik vi kjenner de fra samfunnsdebatten, og gjør det enkelt å få oversikt over hva partiene har stemt og lovet.
 
 Holderdeord.no er under kontinuerlig utvikling. Les mer om [hva vi utvikler for tiden](/home/future).
 
@@ -69,3 +69,5 @@ Holder de ord kategoriserer valgløfter fra partiprogram og regjeringserklæring
 Holder de ord fokuserer i første omgang på partienes partiprogrammer og eventuelle regjeringserklæringer. I valgprogrammene presenterer partiene og politikerne sine visjoner og planer, og disse danner grunnlaget for valgkampen ved å forklare for velgerne hvordan partiene vil bruke makten dersom de får støtte fra velgerne. Det ligger et vesentlig element av forpliktelse fra partiene til å oppfylle de politiske løftene de gir før valget. Sammenhengen mellom gjennomført politikk og valgløfter er dermed viktig.
 
 I en koalisjonsregjering forhandler partiene frem en regjeringserklæring, som er regjeringspartienes felles plattform for den kommende Stortingsperioden. Her inngås det kompromisser og viktige saker fremheves. For å få et representativt bilde inngår derfor også løfter fra disse regjeringserklæringene i Holder de ords løftedatabase.
+
+#####Noe du lurer på? Sjekk ut [ofte stilte spørsmål](http://beta.holderdeord.no/home/faq) eller [kontakt oss](http://beta.holderdeord.no/home/contact) her!
