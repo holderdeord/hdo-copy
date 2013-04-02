@@ -62,7 +62,7 @@ Opposisjonens alternative budsjettforslag er særegne i stortingsprosedyren. Sam
 
 ### Hva når et parti stemmer mot et forslag, fordi de ønsker å gå lenger?
 
-På holderdeord.no finner du avstemninger hvor partiene enten stemmer for eller mot et forslag. Det hender at et parti stemmer mot et forslag fordi de ønsker å gå lengre enn det som foreslås i forslaget; de kan for eksempel mene at noe fortjener høyere bevilgninger enn det som er foreslått. I slike tilfeller fremmer partiene da sine egne forslag gjennom representantforslag, opposisjonsforslag i forbindelse med stortingsmeldinger eller i alternative budsjettforslag. Dette vil  gi utslag i de sakene det gjelder.
+På holderdeord.no finner du avstemninger hvor partiene enten stemmer for eller mot et forslag. Det hender at et parti stemmer mot et forslag fordi de ønsker å gå lengre enn det som foreslås i forslaget; de kan for eksempel mene at noe fortjener høyere bevilgninger enn det som er foreslått. I slike tilfeller fremmer partiene da sine egne forslag gjennom representantforslag, opposisjonsforslag i forbindelse med stortingsmeldinger eller i alternative budsjettforslag. Dette vil  gi utslag i de sakene det gjelder. Gjennom partienes mulighet til å kommentere de ulike sakene vil de også kunne forklare hvorfor de har stemt som de har gjort.
 
 ### Hva betyr det at en avstemning er «i tråd med saken»?
 
@@ -79,3 +79,4 @@ Nei, ikke foreløpig. Fokuset på valgløfter følger av deres spesielle plass i
 ### Hvordan kategoriserer dere løfter?
 
 Når vi kategoriserer løfter tar vi utgangspunkt i partiprogram og regjeringserklæringer som kildedokumenter. Det første vi gjør er å skille valgløfter fra generelle verdierklæringer og mål for samfunnsutviklingen. Løfter kan være spesifikke og etterprøvbare, eller mer generelle. For å gjøre løftene søkbare, knyttes de til kategorier. Vi følger Stortingets system for å kategorisere avstemninger, som består av 172 kategorier, og som dekker hele bredden av innhold i avstemninger på Stortinget.
+ 
