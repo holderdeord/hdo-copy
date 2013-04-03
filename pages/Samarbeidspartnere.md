@@ -15,4 +15,4 @@ NUUG Foundation, Fritt Ord, Opera Software.
 * Februar 2013: 35.000 kr fra [NUUG Foundation](http://www.nuugfoundation.no)
 * Februar 2013: 100.000 kr fra [Fritt Ord](http://www.frittord.no)
 * Oktober 2012: 65.000 kr fra [NUUG Foundation](http://www.nuugfoundation.no)
-* Juli 2012: 20.000 kr fra [NUUG Foundation](http://www.nuugfoundation
+* Juli 2012: 20.000 kr fra [NUUG Foundation](http://www.nuugfoundation)
