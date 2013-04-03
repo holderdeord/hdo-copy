@@ -10,9 +10,14 @@ NUUG Foundation, Fritt Ord, Opera Software.
 
 ## Gaver og sponsorbidrag
 
-* Mars 2013: 10.000 kr fra [Opera Software ASA](http://www.opera.com)
+* Mars 2013: 10.000 kr fra [Opera Software ASA][opera]
 * Februar 2013: 30.000 kr fra Christen Sveaas
-* Februar 2013: 35.000 kr fra [NUUG Foundation](http://www.nuugfoundation.no)
-* Februar 2013: 100.000 kr fra [Fritt Ord](http://www.frittord.no)
-* Oktober 2012: 65.000 kr fra [NUUG Foundation](http://www.nuugfoundation.no)
-* Juli 2012: 20.000 kr fra [NUUG Foundation](http://www.nuugfoundation)
+* Februar 2013: 35.000 kr fra [NUUG Foundation][nuug-foundation]
+* Februar 2013: 100.000 kr fra [Fritt Ord][fritt-ord]
+* Oktober 2012: 65.000 kr fra [NUUG Foundation][nuug-foundation]
+* Juli 2012: 20.000 kr fra [NUUG Foundation][nuug-foundation]
+
+
+[opera]: http://www.opera.com
+[nuug-foundation]: http://www.nuugfoundation.no
+[fritt-ord]: http://www.frittord.no
