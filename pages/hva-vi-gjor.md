@@ -70,4 +70,4 @@ Holder de ord fokuserer i første omgang på partienes partiprogrammer og eventu
 
 I en koalisjonsregjering forhandler partiene frem en regjeringserklæring, som er regjeringspartienes felles plattform for den kommende Stortingsperioden. Her inngås det kompromisser og viktige saker fremheves. For å få et representativt bilde inngår derfor også løfter fra disse regjeringserklæringene i Holder de ords løftedatabase.
 
-#####Noe du lurer på? Sjekk ut [ofte stilte spørsmål](/home/faq) eller [kontakt oss](/home/contact) her!
+**Noe du lurer på? Sjekk ut [ofte stilte spørsmål](/home/faq) eller [kontakt oss](/home/contact) her!**
