@@ -40,6 +40,10 @@ Ja. Holder de ord tar utgangspunkt i avstemningene på Stortinget, hvor alle inn
 
 I prinsippet stemmer alle representanter ut fra egen overbevisning. På Stortinget har det imidlertid lenge vært etablert praksis at representantene stemmer i tråd med partiets posisjon. Å være tro sitt eget parti er også en del av den norske politiske kulturen. Normalt er partiets stemmegivning bestemt i partigruppen på forhånd, og representantene blir instruert i forkant av avstemningen. Dette kalles ofte partidisiplin. Avstemninger hvor representantene blir fristilte av sine parti er gjerne knyttet til lokale forhold eller etiske vurderinger av særlig betydning. Et kjent eksempel er avstemningene om [datalagringsdirektivet](/issues/innfore-datalagringsdirektivet).
 
+### Hvorfor endrer partiene av og til posisjoner i saker på holderdeord.no?
+
+Holder de ords saker oppdateres løpende med nye, relevante avstemninger fra Stortinget. Partiets posisjon i en gitt sak er basert på summen av alle avstemninger som handler om temaet. Når vi legger til nye avstemninger, kan dette føre til at partiets posisjon endres.
+
 ### Viser holderdeord.no om vedtakene i Stortinget faktisk blir gjennomført?
 
 Nei, det vises foreløpig ikke i hvilken grad vedtakene blir fulgt opp og gjennomført av departementene, direktoratene og kommunene hvor offentlig politikk iverksettes.
@@ -71,6 +75,10 @@ For hver avstemning som hører hjemme i en sak vurderer Holder de ord om å stem
 ### Favoriserer dere partier som lover mye?
 
 Fremstillingene på holderdeord.no hverken favoriserer eller straffer partier som lover mye. I vår løftedatabase kan man finne en oversikt over alle partienes løfter, slik de formuleres i valgprogrammene av partiene selv. Ulike partier kan ha ulike strategier for sine valgprogram – noen er detaljerte og omfattende, mens andre er mer fokuserte på partiets kjernesaker. Uansett form, presenterer vi de løftene partiene selv har vedtatt på sine landsmøter.
+
+###Hvorfor er mange representanter «ikke til stede» på avstemningene?
+
+Å stemme er en sentral del av en stortingsrepresentants hverdag. Representantene har også mange andre oppgaver, som for eksempel å delta i komitémøter på Stortinget, partigruppemøter, møte velgere i sitt hjemfylke, og pleie kontakt med medier og lobbyister. Derfor har Stortinget en ordning med [utbytting](http://www.stortinget.no/no/Stortinget-og-demokratiet/Arbeidet/Voteringer/), hvor partiene blir enige seg i mellom om hvor mange representanter som skal delta på hver avstemning. Det sikrer at Stortinget alltid er beslutningsdyktig, og at størrelsesforholdet mellom partiene opprettholdes. Hvert parti har en «innpisker» som har ansvar for at balansen mellom partiene er lik hvis noen representanter er fraværende. Les mer om hva representantene driver med [her](http://www.stortinget.no/no/Stortinget-og-demokratiet/Representantene/Hva-gjor-en-representant/).
 
 ### Har dere med løfter gitt i debatter og medier, og resolusjoner fra landsmøtene?
 
