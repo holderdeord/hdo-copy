@@ -10,7 +10,7 @@ Holderdeord.no er under kontinuerlig utvikling. Les mer om [hva vi utvikler for 
 
 ## Sakene på holderdeord.no
 
-Sakene du finner på holderdeord.no er formulert som politiske standpunkt man kan være for eller mot, for eksempel mot eller for å [fjerne formuesskatten](/issues/fjerne-formueskatten). En sak skal være gjenkjennelig og meningsfull, uavhengig av om man er enig i standpunktet politisk, og skal ikke kunne brytes opp i mindre saker.  
+Sakene du finner på holderdeord.no er formulert som politiske standpunkt man kan være for eller mot, for eksempel mot eller for å [innføre grønne sertifikater](/issues/innfore-gronne-sertifikater). En sak skal være gjenkjennelig og meningsfull, uavhengig av om man er enig i standpunktet politisk, og skal ikke kunne brytes opp i mindre saker.  
 
 Under en sak samler Holder de ord alle relevante avstemninger tilknyttet saken, og viser hvordan partiene har stemt på Stortinget under disse. I hver sak får partiene en skår basert på hvor mange ganger de har stemt for eller mot saken i de individuelle avstemningene. Holder de ord opererer med tre graderinger av partienes stemmegivning: **for** (0 – 33%), **både for og mot** (34 – 66 %) og **mot** (67 – 100%). Deretter henter vi relevante valgløfter fra partiprogrammene og knytter så disse opp til den aktuelle saken.
 
