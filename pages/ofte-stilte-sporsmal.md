@@ -76,7 +76,7 @@ For hver avstemning som hører hjemme i en sak vurderer Holder de ord om å stem
 
 Fremstillingene på holderdeord.no hverken favoriserer eller straffer partier som lover mye. I vår løftedatabase kan man finne en oversikt over alle partienes løfter, slik de formuleres i valgprogrammene av partiene selv. Ulike partier kan ha ulike strategier for sine valgprogram – noen er detaljerte og omfattende, mens andre er mer fokuserte på partiets kjernesaker. Uansett form, presenterer vi de løftene partiene selv har vedtatt på sine landsmøter.
 
-###Hvorfor er mange representanter «ikke til stede» på avstemningene?
+### Hvorfor er mange representanter «ikke til stede» på avstemningene?
 
 Å stemme er en sentral del av en stortingsrepresentants hverdag. Representantene har også mange andre oppgaver, som for eksempel å delta i komitémøter på Stortinget, partigruppemøter, møte velgere i sitt hjemfylke, og pleie kontakt med medier og lobbyister. Derfor har Stortinget en ordning med [utbytting](http://www.stortinget.no/no/Stortinget-og-demokratiet/Arbeidet/Voteringer/), hvor partiene blir enige seg i mellom om hvor mange representanter som skal delta på hver avstemning. Det sikrer at Stortinget alltid er beslutningsdyktig, og at størrelsesforholdet mellom partiene opprettholdes. Hvert parti har en «innpisker» som har ansvar for at balansen mellom partiene er lik hvis noen representanter er fraværende. Les mer om hva representantene driver med [her](http://www.stortinget.no/no/Stortinget-og-demokratiet/Representantene/Hva-gjor-en-representant/).
 
