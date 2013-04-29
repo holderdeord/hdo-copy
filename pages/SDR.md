@@ -1,4 +1,4 @@
-###Retningslinjer
+###Retningslinjer for Spør din representant
 
 På holderdeord.no kan du stille spørsmål til alle stortingsrepresentanter. Formålet er å legge til rette for saklig meningsbryting med stor takhøyde. 
 
