@@ -18,8 +18,6 @@ Holder de ord ønsker å profilere gode spørsmål og svar. Vi forbeholder derfo
 
 Holder de ord har retten til å nekte enkeltpersoner og politiske partier bruk av tjenesten ved gjentatte brudd på disse retningslinjene. 
 
-Hvis et spørsmål eller svar blir avvist, vil avsender få muligheten til å omformulere innlegget. 
-
 
 
 
