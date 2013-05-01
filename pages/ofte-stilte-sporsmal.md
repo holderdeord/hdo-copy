@@ -1,5 +1,3 @@
-# Ofte stilte spørsmål
-
 ### Har dette blitt gjort før?
 
 Ikke i Norge. Derimot er lignende initiativ på fremmarsj i resten av verden. Organisasjoner som bruker data for å ansvarliggjøre myndighetene er på plass eller under utvikling i flere land, inkludert USA, Storbritannia, Frankrike, Polen og Finland.
