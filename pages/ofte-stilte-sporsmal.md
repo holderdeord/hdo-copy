@@ -36,7 +36,7 @@ Ja. Holder de ord tar utgangspunkt i avstemningene på Stortinget, hvor alle inn
 
 ### Hvorfor stemmer representanter fra samme parti ofte likt?
 
-I prinsippet stemmer alle representanter ut fra egen overbevisning. På Stortinget har det imidlertid lenge vært etablert praksis at representantene stemmer i tråd med partiets posisjon. Å være tro sitt eget parti er også en del av den norske politiske kulturen. Normalt er partiets stemmegivning bestemt i partigruppen på forhånd, og representantene blir instruert i forkant av avstemningen. Dette kalles ofte partidisiplin. Avstemninger hvor representantene blir fristilte av sine parti er gjerne knyttet til lokale forhold eller etiske vurderinger av særlig betydning. Et kjent eksempel er avstemningene om [datalagringsdirektivet](/issues/innfore-datalagringsdirektivet).
+I prinsippet stemmer alle representanter ut fra egen overbevisning. På Stortinget har det imidlertid lenge vært etablert praksis at representantene stemmer i tråd med partiets posisjon. Å være tro mot sitt eget parti er også en del av den norske politiske kulturen. Normalt er partiets stemmegivning bestemt i partigruppen på forhånd, og representantene blir instruert i forkant av avstemningen. Dette kalles ofte partidisiplin. Avstemninger hvor representantene blir fristilte av sine parti er gjerne knyttet til lokale forhold eller etiske vurderinger av særlig betydning. Et kjent eksempel er avstemningene om [datalagringsdirektivet](/issues/innfore-datalagringsdirektivet).
 
 ### Hvorfor endrer partiene av og til posisjoner i saker på holderdeord.no?
 
@@ -76,9 +76,14 @@ For hver avstemning som hører hjemme i en sak vurderer Holder de ord om å stem
 
 Fremstillingene på holderdeord.no hverken favoriserer eller straffer partier som lover mye. I vår løftedatabase kan man finne en oversikt over alle partienes løfter, slik de formuleres i valgprogrammene av partiene selv. Ulike partier kan ha ulike strategier for sine valgprogram – noen er detaljerte og omfattende, mens andre er mer fokuserte på partiets kjernesaker. Uansett form, presenterer vi de løftene partiene selv har vedtatt på sine landsmøter.
 
+<<<<<<< HEAD
 ### Hvordan vet dere hvem som var tilstede når vedtaket er enstemmig?
 
 I de fleste avstemningene på Stortinget registreres hver enkelt representants stemme i det elektroniske voteringsanlegget. Men ca 30% av avstemningene avgjøres ved hjelp av [enstemmige vedtak](http://stortinget.no/no/Stortinget-og-demokratiet/Arbeidet/Voteringer/#enstemmigvedtak). Ved disse avstemningene er resultatet vanligvis kjent på forhånd, siden saksforberedelsene gjort det klart at alle partier støtter vedtaket. Hvis noen likevel skulle ønske å stemme mot, viser de dette ved å reise seg. Grunnet den etablerte praksisen med [partidisiplin](#hvorfor-stemmer-representanter-fra-samme-parti-ofte-likt), skjer dette sjelden. Siden en representant ikke har anledning til å forlate stortingssalen under et møte, utleder Holder de ord  hvem som var tilstede på enstemmige vedtak fra andre registrerte avstemninger samme dag. Alle som har stemt på andre avstemninger, regnes dermed som for vedtaket. Enkelte dager har det imidlertid kun vært gjort enstemmige vedtak, og i disse tilfellene utleder vi resultatet fra Stortingets oversikt over [dagens møtende](http://www.stortinget.no/no/Representanter-og-komiteer/Representantene/Representantfordeling/).
+=======
+### Hvordan vet dere hvem som var tilstede når vedtaket er enstemmig?I de fleste avstemningene på Stortinget registreres hver enkelt representants stemme i det elektroniske voteringsanlegget. Men ca 30% av avstemningene avgjøres ved hjelp av [enstemmige vedtak](http://stortinget.no/no/Stortinget-og-demokratiet/Arbeidet/Voteringer/#enstemmigvedtak). Ved disse avstemningene er resultatet vanligvis kjent på forhånd, siden saksforberedelsene gjort det klart at alle partier støtter vedtaket. Hvis noen likevel skulle ønske å stemme mot, viser de dette ved å reise seg. Grunnet den etablerte praksisen med [partidisiplin](/faq#hvorfor-stemmer-representanter-fra-samme-parti-ofte-likt), skjer dette sjelden. Siden representanene ikke kan forlate stortingssalen under avstemingene, utleder Holder de ord  hvem som var tilstede på enstemmige vedtak fra andre registrerte avstemninger samme dag. Alle som har stemt på andre avstemninger, regnes dermed som for vedtaket. Enkelte dager har det imidlertid kun vært gjort enstemmige vedtak, og i disse tilfellene utleder vi resultatet fra Stortingets oversikt over [dagens møtende](http://www.stortinget.no/no/Representanter-og-komiteer/Representantene/Representantfordeling/).
+
+>>>>>>> rephrase
 
 ### Hvorfor er mange representanter «ikke til stede» på avstemningene?
 
