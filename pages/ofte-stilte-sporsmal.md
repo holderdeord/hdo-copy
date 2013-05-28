@@ -28,7 +28,7 @@ For å gi en enkel og representativ oversikt over stortingspolitikken, gir vi de
 
 ### Hvem lager sakene? Hvordan kan vi vite at dere er partipolitisk uavhengige?
 
-Sakene på holderdeord.no utvikles av et team av politiske analytikere med bakgrunn fra blant annet statsvitenskap og sosiologi. Holder de ord er en partipolitisk uavhengig organisasjon, hvor de som besitter det redaksjonelle ansvaret ikke kan inneha partipolitiske verv. Holder de ord tilstreber full åpenhet og gjennomsiktighet i beslutningsprosesser og er derfor åpne om metodikk, finansiering og hvem som lager saker.
+Sakene på holderdeord.no utvikles av et team av politiske analytikere med bakgrunn fra blant annet statsvitenskap og sosiologi. Holder de ord er en partipolitisk uavhengig organisasjon, hvor de som besitter det redaksjonelle ansvaret ikke kan inneha partipolitiske verv. Holder de ord tilstreber full åpenhet og gjennomsiktighet i beslutningsprosesser og er derfor åpne om metodikk, finansiering og hvem som lager saker.  Hvilke saker som analyseres avgjøres av flere faktorer. Vi forsøker å ta tak i saker det har vært mye oppmerksomhet rundt, saker vi vet fra valgundersøkelser at folk er opptatt av, samt saker som vies mye oppmerksomhet på Stortinget selv om de ikke når mediene. Dette er også grunnen til at man kan finne saker hos oss der få eller til og med ingen partier har lovet noe. 
 
 ### Kan man sammenligne regjerings- og opposisjonspartiene?
 
