@@ -8,7 +8,7 @@ Du må oppgi fullt navn og gyldig epostadresse når du stiller spørsmål. Disse
 
 Spørsmålene kan ikke være lengre enn 1000 tegn, og kan kun rettes til nåværende stortingsrepresentanter.
 
-Alle spørsmål og svar skal først og fremst handle om politiske problemstillinger heller enn personlige forhold. Der hvor disse forholdene er sammenfallende vil Holder de ord kunne publisere spørsmål som vi mener er av samfunnsmessig betydning.
+Alle spørsmål og svar skal handle om politiske problemstillinger, og ikke personlige forhold. Der hvor disse forholdene er sammenfallende vil Holder de ord kunne publisere spørsmål som vi mener er av samfunnsmessig betydning.
 
 Skriv ikke spørsmål eller svar som er ærekrenkende, rasistiske, truende eller på annen måte bryter med norsk lov. Unngå nedsettende personkarakteristikker og personangrep. Bruk egne og andres erfaringer med aktsomhet. Ikke utlever andre og ikke krenk privatlivets fred. Ikke tillegg andre meninger de ikke har.
 
