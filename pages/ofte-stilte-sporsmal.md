@@ -14,10 +14,6 @@ Stortinget er sentrum i det norske politiske systemet – og er det lovgivende, 
 
 Nei. På sakssidene kan du finne informasjon om hva partiene har stemt om tema i avstemninger på Stortinget, og hvilke løfter de har gitt i partiprogram og eventuelle regjeringserklæringer. Politikk utformes og gjennomføres på mange fronter: i kommuner og på fylkesting, i regjering og i departementene, og gjennom folkelige initiativ.
 
-### Hvordan har dere kommet frem til metoden dere bruker?
-
-Holder de ord ønsker å presentere politiske saker basert på statsvitenskapelige modeller og utviklingsekspertise fra åpen kildekode-miljøet. I sakene du finner på holderdeord.no gjør vi kvalitative analyser av datasett, med utgangspunkt i funksjonalitet utviklet av våre programmerere, og en modell for utregning av skårer vi har utviklet i dialog med samfunnsvitere og politiske praktikere.
-
 ### Hvem lager sakene? Hvordan kan vi vite at dere er partipolitisk uavhengige?
 
 Sakene på holderdeord.no utvikles av et team av politiske analytikere med bakgrunn fra blant annet statsvitenskap og sosiologi. Holder de ord er en partipolitisk uavhengig organisasjon, hvor de som besitter det redaksjonelle ansvaret ikke kan inneha partipolitiske verv. Holder de ord tilstreber full åpenhet og gjennomsiktighet i beslutningsprosesser og er derfor åpne om metodikk, finansiering og hvem som lager saker.  Hvilke saker som analyseres avgjøres av flere faktorer. Vi forsøker å ta tak i saker det har vært mye oppmerksomhet rundt, saker vi vet fra valgundersøkelser at folk er opptatt av, samt saker som vies mye oppmerksomhet på Stortinget selv om de ikke når mediene. Dette er også grunnen til at man kan finne saker hos oss der få eller til og med ingen partier har lovet noe. 
@@ -32,7 +28,7 @@ I prinsippet stemmer alle representanter ut fra egen overbevisning. På Storting
 
 ### Hvorfor endrer partiene av og til posisjoner i saker på holderdeord.no?
 
-Holder de ords saker oppdateres løpende med nye, relevante avstemninger fra Stortinget. Partiets posisjon i en gitt sak er basert på summen av alle avstemninger som handler om temaet. Når vi legger til nye avstemninger, kan dette føre til at partiets posisjon endres.
+Holder de ords saker oppdateres løpende med nye, relevante avstemninger fra Stortinget. Partiets posisjon i en sak oppsummerer hvordan partiet har stemt på tvers av alle avstemninger som handler om temaet. Når vi legger til nye avstemninger, kan dette føre til at partiets posisjon endres.
 
 ### Hva betyr det at et parti er «både for og mot» en sak?
 
@@ -48,15 +44,13 @@ Det representative demokratiet er et system hvor innvalgte representanter tar be
 
 Formålet med holderdeord.no er verken «å ta» politikere eller mene noe om politikere som endrer mening. Vi har derfor gitt alle partier tilsvarsrett på alle saker som publiseres.
 
+Les mer om [å holde politiske løfter her](http://www.nrk.no/ytring/om-a-holde-politiske-lofter-1.11295831).
+
 ### Hva hvis opposisjonen fremmer et forslag om noe som er under behandling i Regjeringen?
 
-I disse tilfellene vil regjeringspartiene – vanligvis komitéflertallet - ofte foreslå at representantforslaget skal vedlegges protokollen. Dette betyr som regel at man er positiv til innholdet i forslaget, uten at man ønsker å vedta selve forslaget. Representanter fra regjeringspartiene stemmer ofte for å vedlegge protokollen dersom en liknende sak er under behandling i regjeringen, eller vil dekkes i en kommende stortingsmelding, et lovforslag eller lignende. I Holder de ords modell blir slike motforslag vektet til et halvert verdi av et representantforslag for å indikere en viss politisk vilje til å behandle forslaget uten at man nødvendigvis ønsker å vedta det.
+I disse tilfellene vil regjeringspartiene – vanligvis komitéflertallet - ofte foreslå at representantforslaget skal vedlegges protokollen. Dette betyr som regel at man er positiv til innholdet i forslaget, uten at man ønsker å vedta selve forslaget. Representanter fra regjeringspartiene stemmer ofte for å vedlegge protokollen dersom en liknende sak er under behandling i regjeringen, eller vil dekkes i en kommende stortingsmelding, et lovforslag eller lignende. I oppsummeringene vurderes derfor å stemme for å vedlegge et forslag protokollen at man indikere en viss politisk støtte til intensjonen bak, men samtidig ikke at man ikke støtter det fullt ut. 
 
 At et forslag vedlegges protokollen har også flere betydninger i stortingssystemet, og er derfor blant de mer forvirrende tekniske prosedyrene. Hvis noen fremmer et representantforslag, og et annet parti er enig i kjernen av forslaget, men ønsker videre utredning og diskusjon kan de fremme at forslaget skal vedlegges protokollen, og det blir da lagt til som en tilleggsavstemning.  Andre ganger er det «å vedlegge protokollen» en ren formalitet, for eksempel når Stortinget godkjenner en stortingsmelding fra regjeringen. Her legges meldingen nærmest bokstavelig talt ved protokollen.
-
-### Hva betyr det at en avstemning er «i tråd med saken»?
-
-For hver avstemning som hører hjemme i en sak vurderer Holder de ord om å stemme for forslagsteksten er å stemme i tråd med sakens tittel. Sakene vi publiserer på Holder de ord er formulert som politiske standpunkt, for eksempel «å gi kontantstøtte til toåringer». Et forslag som handler om å gjeninnføre kontantstøtten for toåringer er da i tråd med saken, mens et forslag om å avvikle den ikke er det.
 
 ### Favoriserer dere partier som lover mye?
 
