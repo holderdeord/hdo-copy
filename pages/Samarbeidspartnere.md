@@ -10,6 +10,7 @@ NUUG Foundation, Fritt Ord, Opera Software.
 
 ## Gaver og sponsorbidrag
 
+* August 2013: 40.000 kr fra [Plastilin][plastilin]
 * Mars 2013: 10.000 kr fra [Opera Software ASA][opera]
 * Februar 2013: 30.000 kr fra Christen Sveaas
 * Februar 2013: 35.000 kr fra [NUUG Foundation][nuug-foundation]
@@ -17,7 +18,7 @@ NUUG Foundation, Fritt Ord, Opera Software.
 * Oktober 2012: 65.000 kr fra [NUUG Foundation][nuug-foundation]
 * Juli 2012: 20.000 kr fra [NUUG Foundation][nuug-foundation]
 
-
+[plastilin]: http://www.plastilin.no
 [opera]: http://www.opera.com
 [nuug-foundation]: http://www.nuugfoundation.no
 [fritt-ord]: http://www.frittord.no
